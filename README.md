@@ -21,6 +21,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FFDF00?logo=transformers&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
