@@ -36,7 +36,7 @@
 ![Openshift](https://img.shields.io/badge/-Openshift-EE0000?logo=redhatopenshift&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
-
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ---
 
 ### 🚀 Featured Projects
