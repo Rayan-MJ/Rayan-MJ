@@ -42,7 +42,7 @@
 ### 🚀 Featured Projects
 - [pothole-yolo](https://github.com/Rayan-MJ/pothole-detector-yolo): This project is a computer vision model that detects potholes in road images and videos.
 It was built using YOLOv8, trained on a custom dataset.
-- [stock-predictor](https://github.com/Rayan-MJ/Stock-Predictor-MLflow): Predicting stock prices with ML and deep learning.
+- [cozynest](https://github.com/Rayan-MJ/Cozynest): Cozynest is a website where users can discover books, read them, and share reviews with each other
 - [onquick-showcase](https://github.com/Rayan-MJ/onQuick-showcase): This project is a mobile app developed using Flutter, integrated with Google Firebase for backend services and Stripe as the payment gateway.
 
 ---
